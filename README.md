@@ -6,12 +6,33 @@ I am a Data Analyst in training with a background in Biology and extensive exper
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📈 Technical Proficiency & Tools
 
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Geopandas)
-- **Data Visualization:** Dash, Render, Google Sheets (Apps Script & Query)
-- **Tools & Environments:** Git/GitHub, Fedora Linux (KDE Plasma & GNOME), VS Code
-- **Methodologies:** Exploratory Data Analysis (EDA), Statistical Analysis, Educational Metrics, Machine Learning.
+**Data Analysis:** 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Visualization:** 
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
+
+**Education Tech:** 
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) ![Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Environment:** 
+![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Methodologies:** Exploratory Data Analysis (EDA), Statistical Analysis, Educational Metrics, Machine Learning
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fabcmc&theme=dracula&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fabcmc&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fabcmc&theme=default&hide_border=true">
+  </picture>
+</p>
 
 ---
 
@@ -19,22 +40,12 @@ I am a Data Analyst in training with a background in Biology and extensive exper
 
 #### [PBA Sergipe Monitoring Dashboard](https://github.com/fabcmc/dashboard_pba_se)
 *Real-time monitoring of potential classrooms for the Programa Brasil Alfabetizado (PBA) 2026 cycle.*
-- Developed with **Python** and **Dash**.
+- **Tech:** Python, Dash, Render.
 - Automated data processing to monitor educational initiatives across Sergipe state.
 
 #### [Tripleten Bootcamp Portfolio](https://github.com/fabcmc/Tripleten-Projects)
-*A collection of end-to-end data analysis projects completed during my transition into the field.*
-- Includes data cleaning, hypothesis testing, machine learning, and business-oriented visualizations.
-
-#### [FGV Projects](https://github.com/fabcmc/FGV-Projects)
-*Technical projects and analyses developed for Fundação Getulio Vargas.*
-
----
-
-### 🌱 Current Focus
-- Enhancing my skills in geospatial analysis using **Geopandas**.
-- Optimizing data workflows for large-scale educational programs, like PBA with FGV;
-- Be exposed to different business areas to learn different realities related to data analysis.
+*A collection of end-to-end data analysis projects completed during my transition.*
+- **Tech:** Jupyter Notebooks, Hypothesis Testing, Machine Learning.
 
 ---
 
@@ -44,10 +55,5 @@ I am a dedicated **Linux power user** (Fedora enthusiast) and a committed life-l
 ---
 
 ### 📫 Let's Connect!
-
-<p align="left">
-<a href="https://www.linkedin.com/in/fabriciocamacho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabriciocamacho" height="30" width="40" /></a>
-<a href="mailto:fabricio.camacho@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="fabricio.camacho@outlook.com" height="30" width="40" /></a>
-</p>
-
-[Check out my repositories](https://github.com/fabcmc?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciocamacho)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricio.camacho@outlook.com)

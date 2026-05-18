@@ -26,17 +26,17 @@ I am a Data Analyst in training with a background in Biology and extensive exper
 
 ### 📊 Featured Projects
 
-#### [PBA Sergipe Monitoring Data Analysis](https://github.com/fabcmc/pba_se_2026)
+#### [PBA Sergipe Monitoring Data Analysis 2026 (in progress)](https://github.com/fabcmc/pba_se_2026)
 *Real-time monitoring of potential classrooms for the Programa Brasil Alfabetizado (PBA) 2026 cycle.*
 - **Tech:** Python, Jupyter Notebook, Plotly, Dash, Render.
 - Automated data processing to monitor educational initiatives across Sergipe state.
 
-#### [PBA Sergipe Monitoring Data Analysis](https://github.com/fabcmc/pba_se_2025)
+#### [PBA Sergipe Monitoring Data Analysis 2025](https://github.com/fabcmc/pba_se_2025)
 *Real-time monitoring of potential classrooms for the Programa Brasil Alfabetizado (PBA) 2025 cycle.*
 - **Tech:** Python, Jupyter Notebook.
 - Data processing to monitor educational initiatives across Sergipe state.
 
-#### [PBA Rio Grande do Norte Monitoring Data Analysis](https://github.com/fabcmc/pba_rn_2025)
+#### [PBA Rio Grande do Norte Monitoring Data Analysis 2025](https://github.com/fabcmc/pba_rn_2025)
 *Real-time monitoring of potential classrooms for the Programa Brasil Alfabetizado (PBA) 2025 cycle.*
 - **Tech:** Python, Jupyter Notebook.
 - Data processing to monitor educational initiatives across Rio Grande do Norte state.
